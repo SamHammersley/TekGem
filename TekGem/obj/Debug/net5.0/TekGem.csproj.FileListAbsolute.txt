@@ -1,0 +1,16 @@
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\TekGem.exe
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\TekGem.deps.json
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\TekGem.runtimeconfig.json
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\TekGem.runtimeconfig.dev.json
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\TekGem.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\ref\TekGem.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\TekGem.pdb
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.csproj.AssemblyReference.cache
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.AssemblyInfoInputs.cache
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.AssemblyInfo.cs
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.csproj.CoreCompileInputs.cache
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\ref\TekGem.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.pdb
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\TekGem.genruntimeconfig.cache

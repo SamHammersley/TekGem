@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CitySearch", "TekGem\CitySearch.csproj", "{7478B74A-5633-4CF1-989C-FDE4A2EAF846}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CitySearch.Tests", "TekGem.Tests\CitySearch.Tests.csproj", "{51BBE9B5-B3F9-4176-9521-50B8F99DDDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7478B74A-5633-4CF1-989C-FDE4A2EAF846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7478B74A-5633-4CF1-989C-FDE4A2EAF846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7478B74A-5633-4CF1-989C-FDE4A2EAF846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7478B74A-5633-4CF1-989C-FDE4A2EAF846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BBE9B5-B3F9-4176-9521-50B8F99DDDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BBE9B5-B3F9-4176-9521-50B8F99DDDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BBE9B5-B3F9-4176-9521-50B8F99DDDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BBE9B5-B3F9-4176-9521-50B8F99DDDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B4B7FB-050A-4125-A8D5-5F0BE4913C17}
+	EndGlobalSection
+EndGlobal

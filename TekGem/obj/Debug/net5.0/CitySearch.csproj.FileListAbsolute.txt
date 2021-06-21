@@ -1,0 +1,16 @@
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.csproj.AssemblyReference.cache
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.AssemblyInfoInputs.cache
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.AssemblyInfo.cs
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.csproj.CoreCompileInputs.cache
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\CitySearch.exe
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\CitySearch.deps.json
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\CitySearch.runtimeconfig.json
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\CitySearch.runtimeconfig.dev.json
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\CitySearch.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\ref\CitySearch.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\bin\Debug\net5.0\CitySearch.pdb
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\ref\CitySearch.dll
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.pdb
+C:\Users\spagh\Source\Repos\TekGem\TekGem\obj\Debug\net5.0\CitySearch.genruntimeconfig.cache
